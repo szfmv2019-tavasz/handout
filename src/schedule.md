@@ -17,7 +17,7 @@ Az órák csütörtökönként a BA.F.06-ban vannak, neptun szerint 08:00-10:35 
 |11.|04.&nbsp;25.|Continous Integration|Set up a CI script running all implemented unit tests
 |12.|05.&nbsp;02.|Összefoglalás, konzultáció, tárgy feedback|Retro + Pair programming
 |**13.**|**05.&nbsp;09.**|**harmadik demo**/retrospektív|Coding Dojo, feedback
-|**14.**|**05.&nbsp;16.**|**Zárthelyi dolgozat** ??:??-tól ??:??-ig (90 perc), 1.?? és 1.?? laborok
+|**14.**|**05.&nbsp;16.**|**Zárthelyi dolgozat** 08:00-tól 09:40-ig (90 perc), 1.10 (nyílt) laborban
 
 ## Gantt diagram
 
